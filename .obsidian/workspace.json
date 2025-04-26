@@ -22,21 +22,89 @@
             }
           },
           {
-            "id": "047fe07e14e1efad",
+            "id": "02e9f33d162c31b2",
+            "type": "leaf",
+            "state": {
+              "type": "intiative-tracker-encounter-builder",
+              "state": [
+                [
+                  {
+                    "name": "Earth Elemental",
+                    "source": "5e SRD",
+                    "size": "Large",
+                    "type": "elemental",
+                    "subtype": "",
+                    "alignment": "neutral",
+                    "ac": 17,
+                    "hp": 126,
+                    "hit_dice": "12d10 + 60",
+                    "speed": "30 ft., burrow 30 ft.",
+                    "stats": [
+                      20,
+                      8,
+                      20,
+                      5,
+                      10,
+                      5
+                    ],
+                    "damage_vulnerabilities": "thunder",
+                    "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical weapons",
+                    "damage_immunities": "poison",
+                    "condition_immunities": "exhaustion, paralyzed, petrified, poisoned, unconscious",
+                    "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10",
+                    "languages": "Terran",
+                    "cr": "5",
+                    "bestiary": true,
+                    "traits": [
+                      {
+                        "name": "Earth Glide",
+                        "desc": "The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Siege Monster",
+                        "desc": "The elemental deals double damage to objects and structures.",
+                        "attack_bonus": 0
+                      }
+                    ],
+                    "actions": [
+                      {
+                        "name": "Multiattack",
+                        "desc": "The elemental makes two slam attacks.",
+                        "attack_bonus": 0
+                      },
+                      {
+                        "name": "Slam",
+                        "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
+                        "attack_bonus": 8,
+                        "damage_dice": "2d8",
+                        "damage_bonus": 5
+                      }
+                    ]
+                  },
+                  1
+                ]
+              ],
+              "icon": "intiative-tracker-encounter-builder",
+              "title": "Encounter Builder"
+            }
+          },
+          {
+            "id": "e24e6799ceecce52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Lazy DM Checklist"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Summary"
+              "title": "Backlinks for Lazy DM Checklist"
             }
           },
           {
@@ -128,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Summary"
+              "title": "Outgoing links from Lazy DM Checklist"
             }
           },
           {
@@ -157,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Summary"
+              "title": "Outline of Lazy DM Checklist"
             }
           },
           {
@@ -197,7 +265,23 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
+      },
+      {
+        "id": "03d015a3c7d2a000",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8a530565fa98ff",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-creature-view",
+              "state": {},
+              "icon": "initiative-tracker-creature-view",
+              "title": "Combatant"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,12 +300,12 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "047fe07e14e1efad",
+  "active": "e24e6799ceecce52",
   "lastOpenFiles": [
-    "Ideas.md",
     "Summary.md",
-    "Templates/Lazy DM Checklist.md",
     "Untitled.md",
+    "Ideas.md",
+    "Templates/Lazy DM Checklist.md",
     "Templates"
   ]
 }
