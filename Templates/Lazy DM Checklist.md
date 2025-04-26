@@ -42,3 +42,6 @@ Scene 5
 # Select Magic Item Rewards
 *What items would characters like? Ask them.*
 *Usually one magic item per session, but maybe not powerful*
+*Tie these to the story. Connection to secret/clue?*
+https://5e.tools/lootgen.html
+
