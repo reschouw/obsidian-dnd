@@ -37,5 +37,8 @@ Scene 5
 
 # Choose Relevant Monsters
 *Cr to level conversion is CRx4 for <lvl5, CRX2 for >=lvl5*
+*Boss fights should account for party capabilities without negating them.*
 
 # Select Magic Item Rewards
+*What items would characters like? Ask them.*
+*Usually one magic item per session, but maybe not powerful*
