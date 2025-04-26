@@ -21,11 +21,9 @@ Scene 5
 5. Secret 5
 6. Secret 6
 7. Secret 7
-8. Secret 8
-9. Secret 9
-10. Secret 10
 
 # Develop Fantastic Locations
+*Are any of these related to a player?*
 
 # Outline Important NPCs
 
