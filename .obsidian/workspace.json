@@ -95,12 +95,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Lazy DM Checklist"
             }
           }
         ],
@@ -177,7 +177,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Summary"
+              "title": "Backlinks for Lazy DM Checklist"
             }
           },
           {
@@ -196,12 +196,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Summary"
+              "title": "Outgoing links from Lazy DM Checklist"
             }
           },
           {
@@ -225,13 +225,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Summary.md",
+                "file": "Templates/Lazy DM Checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Summary"
+              "title": "Outline of Lazy DM Checklist"
             }
           },
           {
@@ -265,7 +265,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       },
       {
         "id": "03d015a3c7d2a000",
@@ -300,10 +300,10 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "9f11fdbb313cdf63",
+  "active": "398d42c08470f5de",
   "lastOpenFiles": [
-    "Ideas.md",
     "Summary.md",
+    "Ideas.md",
     "Templates/Lazy DM Checklist.md",
     "Untitled.md",
     "Templates"
