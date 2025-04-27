@@ -17,7 +17,5 @@ The Kingdom of
 # Villain
 
 # The Plan
-
-**Someone wants something by sometime using some tools, but is having trouble getting it because of reasons.**
-
+*Someone wants something by sometime using some tools, but is having trouble getting it because of reasons.*
 ## The Steps
