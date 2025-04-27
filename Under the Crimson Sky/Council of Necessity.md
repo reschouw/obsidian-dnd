@@ -1,0 +1,1 @@
+The leaders of the three city-states might be forced to form a council to coordinate their efforts. This would be fraught with tension due to Newrock's arrogance, Southfield's magical struggles, and Starcrest's isolationism, but the looming threat could provide the necessary motivation for cooperation.

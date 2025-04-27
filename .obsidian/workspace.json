@@ -13,80 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Under the Crimson Sky/Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Summary"
-            }
-          },
-          {
-            "id": "02e9f33d162c31b2",
-            "type": "leaf",
-            "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [
-                [
-                  {
-                    "name": "Earth Elemental",
-                    "source": "5e SRD",
-                    "size": "Large",
-                    "type": "elemental",
-                    "subtype": "",
-                    "alignment": "neutral",
-                    "ac": 17,
-                    "hp": 126,
-                    "hit_dice": "12d10 + 60",
-                    "speed": "30 ft., burrow 30 ft.",
-                    "stats": [
-                      20,
-                      8,
-                      20,
-                      5,
-                      10,
-                      5
-                    ],
-                    "damage_vulnerabilities": "thunder",
-                    "damage_resistances": "bludgeoning, piercing, and slashing from nonmagical weapons",
-                    "damage_immunities": "poison",
-                    "condition_immunities": "exhaustion, paralyzed, petrified, poisoned, unconscious",
-                    "senses": "darkvision 60 ft., tremorsense 60 ft., passive Perception 10",
-                    "languages": "Terran",
-                    "cr": "5",
-                    "bestiary": true,
-                    "traits": [
-                      {
-                        "name": "Earth Glide",
-                        "desc": "The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Siege Monster",
-                        "desc": "The elemental deals double damage to objects and structures.",
-                        "attack_bonus": 0
-                      }
-                    ],
-                    "actions": [
-                      {
-                        "name": "Multiattack",
-                        "desc": "The elemental makes two slam attacks.",
-                        "attack_bonus": 0
-                      },
-                      {
-                        "name": "Slam",
-                        "desc": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
-                        "attack_bonus": 8,
-                        "damage_dice": "2d8",
-                        "damage_bonus": 5
-                      }
-                    ]
-                  },
-                  1
-                ]
-              ],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
             }
           },
           {
@@ -109,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Summary.md",
+                "file": "Ideas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Ideas"
             }
           },
           {
@@ -123,28 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unnamed Campaign/Summary.md",
+                "file": "Under the Crimson Sky/NPCs/Thaddeus Kayne.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
-            }
-          },
-          {
-            "id": "2a597fe1a63c55a8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Newrock.png"
-              },
-              "icon": "lucide-image",
-              "title": "Newrock"
+              "title": "Thaddeus Kayne"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -164,7 +83,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -201,7 +120,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 200
   },
   "right": {
     "id": "27523261a8c7f291",
@@ -217,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Images/Newrock.png",
+                "file": "Under the Crimson Sky/Summary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -227,7 +146,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Newrock"
+              "title": "Backlinks for Summary"
             }
           },
           {
@@ -236,12 +155,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Images/Newrock.png",
+                "file": "Under the Crimson Sky/Summary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Newrock"
+              "title": "Outgoing links from Summary"
             }
           },
           {
@@ -265,37 +184,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Images/Newrock.png",
+                "file": "Under the Crimson Sky/Summary.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Newrock"
+              "title": "Outline of Summary"
             }
           },
           {
-            "id": "2c58d0143a925578",
-            "type": "leaf",
-            "state": {
-              "type": "DICE_ROLLER_VIEW",
-              "state": {},
-              "icon": "dices",
-              "title": "Dice Tray"
-            }
-          },
-          {
-            "id": "2b28707f764c4389",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
-            }
-          },
-          {
-            "id": "e1232ad93436d250",
+            "id": "f8b5aa7596357150",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -305,7 +204,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       },
       {
         "id": "03d015a3c7d2a000",
@@ -342,20 +241,24 @@
   },
   "active": "9f11fdbb313cdf63",
   "lastOpenFiles": [
-    "Locations/Newrock.md",
-    "Images/Newrock.png",
-    "Images/Southfield.png",
-    "Images/Fargrove.png",
-    "Locations/Southfield.md",
-    "Locations/Fargrove.md",
-    "Images",
-    "Unnamed Campaign/Summary.md",
-    "Locations",
-    "Templates/Campaign Overview.md",
-    "Templates/Session Prep Checklist.md",
-    "Summary.md",
-    "Unnamed Campaign",
+    "Under the Crimson Sky/Council of Necessity.md",
+    "Under the Crimson Sky/Locations/Starcrest.md",
+    "Under the Crimson Sky/Locations/Newrock.md",
     "Ideas.md",
+    "Summary.md",
+    "Under the Crimson Sky/Summary.md",
+    "Templates/Session Prep Checklist.md",
+    "Under the Crimson Sky/NPCs/Thaddeus Kayne.md",
+    "Under the Crimson Sky/Images/Starcrest.png",
+    "Under the Crimson Sky/Images/Southfield.png",
+    "Under the Crimson Sky/Images/Newrock.png",
+    "Under the Crimson Sky/NPCs",
+    "Under the Crimson Sky/Locations/Southfield.md",
+    "Unnamed Campaign/Images/Fargrove.png",
+    "Under the Crimson Sky/Images",
+    "Under the Crimson Sky/Locations",
+    "Templates/Campaign Overview.md",
+    "Under the Crimson Sky",
     "Templates"
   ]
 }
