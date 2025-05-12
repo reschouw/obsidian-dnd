@@ -24,9 +24,9 @@ Prevent Thaddeus Kayne from starting a war.
 # Setting
 *Government? Economy? How did it get to be this way?*
 The three city states are each specialized in something that was used to fight the ancient evil. 
-[[Starcrest]]
-[[Newrock]]
-[[Southfield]]
+[[Campaigns/Under the Crimson Sky/Locations/Starcrest]]
+[[Campaigns/Under the Crimson Sky/Locations/Newrock]]
+[[Campaigns/Under the Crimson Sky/Locations/Southfield]]
 
 
 # Villain

@@ -1,4 +1,4 @@
-![[Southfield.png]]
+![[Campaigns/Under the Crimson Sky/Images/Southfield.png]]
 
 https://watabou.github.io/city-generator?size=32&seed=1387705097&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=0&greens=0&gates=-1![[southfield.png]]
 

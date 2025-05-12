@@ -1,4 +1,4 @@
-![[Newrock.png]]
+![[Campaigns/Under the Crimson Sky/Images/Newrock.png]]
 
 https://watabou.github.io/city-generator?size=48&seed=442647795&citadel=1&urban_castle=0&plaza=1&temple=1&walls=1&shantytown=1&coast=1&river=1&greens=0&gates=-1&sea=0.3
 

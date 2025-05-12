@@ -1,4 +1,4 @@
-![[Starcrest.png]]
+![[Campaigns/Under the Crimson Sky/Images/Starcrest.png]]
 
 https://watabou.github.io/city-generator?size=14&seed=996872526&citadel=1&urban_castle=1&plaza=1&temple=1&walls=1&shantytown=0&coast=0&river=1&greens=1&gates=-1
 
