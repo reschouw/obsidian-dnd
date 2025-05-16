@@ -1,6 +1,6 @@
 # Hook
 *One sentence description*
-Prevent Thaddeus Kayne from starting a war.
+Prevent Thaddeus Kayne from razing the city states.
 
 # Truths
 *What separates this campaign from all others?*
@@ -9,15 +9,15 @@ Prevent Thaddeus Kayne from starting a war.
 3. Each city state has a specialized economy
 4. Artifacts and dangers lie buried in old battlefields
 5. Archeologists and treasure hunters explore the lands, rarely with any degree of success. 
-6. The Triple Pact has started bickering over small disagreements
+6. The Triple Pact has been bickering over small policies, etc
 
 # Fronts
 *Defined as a name, a goal, and three grim portents*
 *At least one, more for larger campaigns*
 * Thaddeus Kayne: Seeks revenge against the city states
-	1. Rumbles are felt, as something in the earth begins to stir
-	2. Ancient monsters, creatures, undead soldiers appear across the landscape
-	3. Kayne's army marches emerges, 
+	1. The city states begin border skirmishes
+	2. Grave sites are empty, sightings of monsters are frequent.
+	3. Kayne's armies emerge from the earth, and begins to march
 
 # Players
 
@@ -37,18 +37,16 @@ Thaddeus Kayne: Buried deep in a crypt a millenia ago, treasure hunters uncovere
 # The Plan
 *Someone wants something by sometime using some tools, but is having trouble getting it because of reasons.*
 
-Thaddeus Kayne wants to restore a dark empire using ancient artifacts before the Shadow Moon, but must gather artifacts in order to build the needed strength. 
+Thaddeus wants to raze the city states to the ground, but they are still powerful enough to stop him and his armies, and he has to summon the armies to begin with. 
 
 # The Steps
 *Probably three?*
 
-Thaddeus needs to gather an army. But the resources, artifacts, and "volunteers" he would need to do this are all in the lands of the various city states now. He must locate and activate the different 
+## 1. Weaken the alliance
+Kayne will enthrall key members of the political leaders of the  city states. Maybe even lower level diplomats, etc. They will start causing arguments and rifts between the city states. Maybe start border skirmishes.
 
-## 1. Locate the Widget
-When the dark empire knew it was falling, it hid it's most powerful artifact, the Widget, and recorded it's location so it could be found after their "inevitable" return. 
+## 2. Raise the old armies
+Kayne must also raise the old armies back into service once again. To do so, he must visit the sites of the old battles and press the dead back into service. They may not all go willingly, so he will have to force some of them. 
 
-## 2. Recover the Widget
-The Widget should be well hidden, and well guarded, Even Kayne may not be able to walk in and take it. 
-
-# 3. Activate the widget
-The Widget must be activated in a ritual, at which point Kayne will be able to summon the forces he requires. 
+# 3. March on the city states
+Once the armies are raised and the city states are bickering, Kayne will form up his battalions, assign them missions of destruction, and issue his orders. The armies will lay siege to the city states themselves, raid villages and burn towns. 

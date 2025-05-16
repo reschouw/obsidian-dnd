@@ -1,9 +1,9 @@
 # Hook
 *One sentence description*
-
+Resist the tyrannical empire attempting to take over the city
 # Truths
 *What separates this campaign from all others?*
-1. Truth
+1. The Iron Dominion 
 2. Truth
 3. Truth
 4. Truth
@@ -13,7 +13,7 @@
 # Fronts
 *Defined as a name, a goal, and three grim portents*
 *At least one, probably more*
-
+The Iron Dominion
 # Players
 
 # Setting

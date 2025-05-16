@@ -1,1 +1,5 @@
+While the city states disagree and bicker, they have conceded to creating a "Council of neccessity" made up of minor diplomats, academics, and politicians. The members of the council seek to smooth over the small arguments that have occuring, and are charged with determining if the rumors of a rising evil are true. 
+
+They are not expected to succeed, or to find anything. The governments that formed the council only did so to remove annoying people claiming the sky is about to start falling. The governments will argue over giving the council any funding, while simultaneously trying to control it for their own benefit. 
+
 The leaders of the three city-states might be forced to form a council to coordinate their efforts. This would be fraught with tension due to Newrock's arrogance, Southfield's magical struggles, and Starcrest's isolationism, but the looming threat could provide the necessary motivation for cooperation.

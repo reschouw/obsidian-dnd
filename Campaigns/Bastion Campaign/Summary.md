@@ -1,9 +1,10 @@
 # Hook
 *One sentence description*
-
+Build a fortress to protect the nearby town.
+(Requires Minimum Lvl 5 Characters)
 # Truths
 *What separates this campaign from all others?*
-1. Truth
+1. 
 2. Truth
 3. Truth
 4. Truth
