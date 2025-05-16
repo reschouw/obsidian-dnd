@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Under the Crimson Sky/Summary.md",
+                "file": "Campaigns/Under the Crimson Sky/NPCs/Rowan Scriptor.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Summary"
+              "title": "Rowan Scriptor"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 257.5
   },
   "right": {
     "id": "27523261a8c7f291",
@@ -203,11 +203,13 @@
   },
   "active": "cc1038f46dcdb3de",
   "lastOpenFiles": [
-    "Campaigns/Under the Crimson Sky/Notes/Council of Necessity.md",
+    "Campaigns/Under the Crimson Sky/Images/Skip.png",
+    "Campaigns/Under the Crimson Sky/Locations/Newrock.md",
     "Campaigns/Under the Crimson Sky/NPCs/Rowan Scriptor.md",
+    "Campaigns/Under the Crimson Sky/Images/Rowan Scriptor.jpeg",
     "Campaigns/Under the Crimson Sky/NPCs/Thaddeus Kayne.md",
     "Campaigns/Under the Crimson Sky/Summary.md",
-    "Campaigns/Under the Crimson Sky/Locations/Newrock.md",
+    "Campaigns/Under the Crimson Sky/Notes/Council of Necessity.md",
     "Campaigns/Under the Crimson Sky/Locations/Southfield.md",
     "Campaigns/Under the Crimson Sky/Locations/Starcrest.md",
     "Campaigns/The Iron Dominion/Summary.md",
