@@ -11,3 +11,4 @@ Despite the
 A Blink dog
 - **Personality:** The blink dog's personality should complement the emissary's. If she's serious, the dog might be playful but fiercely protective. If she's energetic, the dog might be more steady and watchful.
 - **Guard Dog Aspect:** The blink dog's teleportation ability makes it an exceptional bodyguard. It can appear and disappear in an instant to intercept threats. This could lead to dramatic moments and make her a formidable negotiator, knowing her partner can defend her.
+
