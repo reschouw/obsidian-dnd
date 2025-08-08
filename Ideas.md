@@ -1,3 +1,5 @@
+Campaign idea: 
+
 Deep crow would be an AWESOME enemy to fight. 
 
 The bagman would be an excellent boogeyman story to fight in 
