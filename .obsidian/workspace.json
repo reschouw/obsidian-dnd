@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cc1038f46dcdb3de",
+            "id": "1e11abb66808dfbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/The Iron Dominion/Summary.md",
+                "file": "Campaigns/Requiem for Harmony/Summary.md",
                 "mode": "source",
                 "source": false
               },
@@ -22,45 +22,20 @@
             }
           },
           {
-            "id": "9439586b7a9f0baa",
+            "id": "7b875b011b436874",
             "type": "leaf",
             "state": {
-              "type": "intiative-tracker-encounter-builder",
-              "state": [],
-              "icon": "intiative-tracker-encounter-builder",
-              "title": "Encounter Builder"
-            }
-          },
-          {
-            "id": "d0316475beb7fac2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Campaigns/The Iron Dominion/Locations/Twilight Falls.md",
-                "bFile": "Campaigns/The Iron Dominion/Locations/Twilight Falls.md",
-                "aRef": ""
+                "file": "Campaigns/Under the Crimson Sky/Summary.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Twilight Falls"
-            }
-          },
-          {
-            "id": "1e11abb66808dfbc",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Summary"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,7 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 337.5
+    "width": 262.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,12 +233,22 @@
   },
   "active": "1e11abb66808dfbc",
   "lastOpenFiles": [
+    "Campaigns/Requiem for Harmony/NPCs/An-Yin.md",
+    "Campaigns/Requiem for Harmony/Summary.md",
+    "Campaigns/Requiem for Harmony/Images/An-Yin.png",
+    "Campaigns/Requiem for Harmony/NPCs/Jax.md",
+    "Campaigns/Requiem for Harmony/Images/Jax.png",
+    "Campaigns/Requiem for Harmony/NPCs/Elara Vance.md",
+    "Campaigns/Requiem for Harmony/NPCs/Director Seldon.md",
+    "Campaigns/Requiem for Harmony/Images/ElaraVance.png",
+    "Campaigns/Requiem for Harmony/Images/DirectorSeldon.png",
+    "Campaigns/Requiem for Harmony/Images/Mysterious_Musician_s_Video_Ready.mp4",
+    "Campaigns/Requiem for Harmony/Locations/The Lyceum of Resonant Song.md",
+    "Campaigns/Under the Crimson Sky/Summary.md",
     "Campaigns/The Iron Dominion/Images/Twilight Falls.png",
     "Campaigns/The Iron Dominion/Images/dragon-bones-map.png",
     "Campaigns/The Iron Dominion/Images/dragon-bones-cover.png",
-    "Campaigns/Under the Crimson Sky/Summary.md",
     "Campaigns/Campaign Template/Summary.md",
-    "Campaigns/Requiem for Harmony/Summary.md",
     "Campaigns/Under the Crimson Sky/Images/Skip.png",
     "Campaigns/Requiem for Harmony/Sessions",
     "Campaigns/Requiem for Harmony/Notes",
@@ -275,10 +260,7 @@
     "Campaigns/Under the Crimson Sky/Images/Rowan Scriptor.jpeg",
     "Ideas.md",
     "Campaigns/Bastion Campaign/Summary.md",
-    "Campaigns/Under the Crimson Sky/Images/Thaddeus Kayne.png",
     "Campaigns/The Iron Dominion/Locations/Twilight Falls.md",
-    "Campaigns/Under the Crimson Sky/Images/Starcrest.png",
-    "Campaigns/Under the Crimson Sky/Images/Newrock.png",
     "Campaigns/The Iron Dominion/Summary.md",
     "Campaigns/Under the Crimson Sky/NPCs/Rowan Scriptor.md",
     "Templates/Session Prep Checklist.md",
@@ -291,14 +273,10 @@
     "Campaigns/The Iron Dominion/Sessions",
     "Campaigns/The Iron Dominion/Notes",
     "Campaigns/The Iron Dominion/NPCs",
-    "Campaigns/The Iron Dominion/Locations",
     "Templates/Campaign Overview.md",
     "Campaigns/Bastion Campaign/NPCs/Thaddeus Kayne.md",
     "Campaigns/Bastion Campaign/Notes/Council of Necessity.md",
     "Campaigns/Bastion Campaign/Locations/Newrock.md",
-    "Campaigns/Bastion Campaign/Images/Newrock.png",
-    "Campaigns/Bastion Campaign/Locations/Starcrest.md",
-    "Campaigns/Bastion Campaign/Locations/Southfield.md",
-    "Summary.md"
+    "Campaigns/Bastion Campaign/Locations/Starcrest.md"
   ]
 }

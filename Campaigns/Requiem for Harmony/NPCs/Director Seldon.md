@@ -1,0 +1,3 @@
+**The Head of the Bardic College**
+
+Director Seldon is the stoic and proud head of the Lyceum of Resonant Song. He is a man who exudes quiet authority and the immense pressure of his position. Unlike the flamboyant performers of his college, Seldon is a scholar and a historian first. He is dedicated to preserving the art of music, not just performing it. In the face of An-Yin’s threat and the town’s growing paranoia, he is desperately trying to hold his institution and its members together. Seldon is proud and distrustful of outsiders, but his fear for the college and the city may drive him to hire the party as a last, desperate hope.

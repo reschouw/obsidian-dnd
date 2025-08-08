@@ -1,0 +1,3 @@
+**The Horny Bard**
+
+Jax is an exceptionally charming and infuriatingly clumsy student at the Lyceum. He's a roguish figure with a disarming smile and a reputation for getting into trouble—often with someone's spouse or a city guard. Jax is a master of the silver tongue, able to charm his way into almost any situation. He's a fountain of gossip and knows the ins and outs of the city's social circles, making him a fantastic source of information. The one thing he isn't good at is actually playing his chosen instrument; his musical talent is, charitably, lacking. His true love for Veridia and its music is genuine, however, and he'll do anything for the city he loves, even if it means putting himself in a dangerous situation.

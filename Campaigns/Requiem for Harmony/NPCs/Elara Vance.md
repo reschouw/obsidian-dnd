@@ -1,0 +1,3 @@
+**The Archmage Who Survived**
+
+Once the most brilliant scholar of the Lyceum of Resonant Song and a master of sonic magic, Elara Vance is now a tragic figure of the city's peril. In her desperation to counter An-Yin's magic, she performed a ritual that backfired horribly. She survived, but the spell’s feedback stole her hearing completely. Now she relies on a large, ornate ear trumpet to hear even a whisper, which often leads to amusing misinterpretations and frustrating conversations. A team of medical mages has been trying without success to restore her hearing. Elara is a living, breathing testament to the danger An-Yin presents, and a key source of information—if the players can get her to understand them.

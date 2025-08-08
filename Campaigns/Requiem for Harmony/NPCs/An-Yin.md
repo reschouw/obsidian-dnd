@@ -1,0 +1,9 @@
+### The Pursuit of a Perfect Note
+
+An-Yin is be a combination of Chinese characters meaning "peace" and "sound. An awesome contradiction with his goals*
+
+An-Yin was a legendary pipa player, obsessed with achieving a level of musical perfection no one else could comprehend. He was not satisfied with the sounds of the world; the babbling of brooks, the song of birds, and even the laughter of children were all dissonant to his ears. He believed that the only truly perfect sound was the silence _between_ his notes. He grew so maddened by this idea that a dark, primordial entity—one that existed in the void before sound itself—promised him the power to silence the entire world. In doing so, he could achieve a permanent, perfect silence that would be his greatest masterpiece.
+
+**The silence An-Yin creates is not empty—it is a void that actively consumes. Places or people that are completely silenced physically begin to decay and fall into dust, as if their very essence has been erased.** This makes his actions even more terrifying and gives the players a visual representation of the danger. It's not just about sound; it's about the unmaking of reality.
+
+I kind of like the idea of there not being any associated faction, just An-Yin himself. I suppose we will need a way to keep him from being murdered immediately by the party when they come in conflict with him, but we can figure that out later. Let's have his immortality rely on him finding that perfect note. He is resurrected until he finds it. This would also be an epic way to troll the players if they kill him easily the first time they encounter him. 
