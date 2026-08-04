@@ -1,0 +1,62 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "conv-1785868083059-0vo7bx3qx",
+  "records": [
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785868083197-k8rhnsa",
+      "userTurnOrdinal": 1,
+      "state": "accepted",
+      "localMessageId": "msg-1785868083053-sgxpcht",
+      "timestamp": 1785868083053,
+      "rawDisplayText": "Take a look at the files in this obsidian workspace. what do you think?",
+      "canonicalText": "Take a look at the files in this obsidian workspace. what do you think?",
+      "images": [],
+      "contentDigest": "a9bb25c0a5477076793e7b3aabc37284b695d48ba2817bca189bcc6946b85568",
+      "providerUserMessageId": "59934d23-f5a8-4d0f-84bb-d4f17b9ec566",
+      "providerAssistantMessageId": "a7776049-e60d-412c-8e38-0de41fd6d06d"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785868208025-hgmkr3b",
+      "userTurnOrdinal": 2,
+      "state": "accepted",
+      "localMessageId": "msg-1785868208021-h68t6v9",
+      "timestamp": 1785868208021,
+      "rawDisplayText": "I'm trying to adapt the lazy gm's framework here. What do you think of my session templates and campaign templates? \n\nEach of these campaigns is just theoretical for now. Which is why the session notes are empty....\n\nCan you think of any better organization steps?",
+      "canonicalText": "I'm trying to adapt the lazy gm's framework here. What do you think of my session templates and campaign templates? \n\nEach of these campaigns is just theoretical for now. Which is why the session notes are empty....\n\nCan you think of any better organization steps?",
+      "images": [],
+      "contentDigest": "0d9fb0b64365dbfa002ec4d394c35a968d2d013d8f4ca52ba7c9e288be8611b9",
+      "providerUserMessageId": "1b999523-301a-4e83-8e29-d0b303c61ada",
+      "providerAssistantMessageId": "ad40820b-35b0-45cb-88de-869d4a28245e"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785868500229-dbm7bal",
+      "userTurnOrdinal": 3,
+      "state": "accepted",
+      "localMessageId": "msg-1785868500224-1iyrmft",
+      "timestamp": 1785868500224,
+      "rawDisplayText": "/usage",
+      "canonicalText": "/usage",
+      "images": [],
+      "contentDigest": "186699303358f7ad52f7b956f88624b70f1a3fb40ddd53db597a2180c9e7bcb2",
+      "providerUserMessageId": "fb92d787-4d0c-4066-8de1-5b82c2373227",
+      "providerAssistantMessageId": "fc02dde1-aa16-4bbe-ada5-68f7ab75fee5"
+    },
+    {
+      "schemaVersion": 1,
+      "id": "msg-1785870562807-xbzrlpt",
+      "userTurnOrdinal": 4,
+      "state": "accepted",
+      "localMessageId": "msg-1785870562804-743mtw9",
+      "timestamp": 1785870562804,
+      "rawDisplayText": "go ahead and write a template for the session notes, following the lazy gm's philosophy",
+      "canonicalText": "go ahead and write a template for the session notes, following the lazy gm's philosophy",
+      "images": [],
+      "contentDigest": "be5eed3513ac950fec3653c8efb35eb42f16c067dbdc6ebb05e365e374147694",
+      "providerUserMessageId": "a1544549-71a8-4d88-8850-16a69b3fb3b3",
+      "providerAssistantMessageId": "c72c4d22-a8f3-4712-b21f-9d20f77aaa39"
+    }
+  ]
+}

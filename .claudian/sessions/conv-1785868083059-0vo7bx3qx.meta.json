@@ -1,0 +1,23 @@
+{
+  "id": "conv-1785868083059-0vo7bx3qx",
+  "providerId": "claude",
+  "title": "Review Obsidian workspace files",
+  "titleGenerationStatus": "success",
+  "createdAt": 1785868083067,
+  "updatedAt": 1785870669493,
+  "lastResponseAt": 1785870600144,
+  "sessionId": "0336adb5-a718-44d2-b2c0-5814cc8b3daa",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "0336adb5-a718-44d2-b2c0-5814cc8b3daa"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 939,
+    "cacheReadInputTokens": 27990,
+    "contextWindow": 200000,
+    "contextTokens": 28937,
+    "percentage": 14
+  }
+}
