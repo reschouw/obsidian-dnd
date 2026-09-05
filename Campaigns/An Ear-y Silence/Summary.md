@@ -1,22 +1,22 @@
 # Hook
-Save the world from being permanently silenced.
+The Party has been hired by the Director of the bardic college of Veridia to investigate why the Great Bell of Veridia has gone silent and stop panic spreading throughout the city. 
 
 # Truths
 *What separates this campaign from all others?*
 *These will be shared with the players*
-1. Veridia is a well-known place of pilgrimage for musicians of all kinds, and is home to one of the oldest and most renown bardic colleges.
-2. Something has the spellcasters of Veridia being even more paranoid than usual. They aren't talking about what it is.
-3. Ghost stories are unusually common in this part of the world. Many are dismissed as blatant exaggerations. Others are treated with genuine fear.
-4. There are rumors of farmhouses decaying and disappearing into dust around the city. 
-5. The Great Bell of Veridia, the symbol of city for a millennia, has recently failed to make a sound.
-6. The relationship between the townspeople and the college has always been strained. 
+1. Veridia is a well-known place of pilgrimage for musicians of all kinds, and is home to one of the oldest and most renown bardic colleges: **The Lyceum of Resonant Harmony**
+2. The Great Bell of Veridia, forged millennia ago by great dwarven artisans has recently gone silent, despite the best efforts of the college's bards.
+3. Rumors are spreading rapidly of bards who have gone missing, spreading panic throughout the city.
+4. While the great bell bell has been the talk of the town, rumors are spreading rapidly of other musicians or instruments becoming silent
+5. Veridia has become rich because of the college, but it has also become completely reliant on it. Veridia's Governor is less than pleased about this situation.   
 
 # Fronts
 *Defined as a name, a goal, and three grim portents*
 
 An-Yin (Silence the city):
+* **Silence the Great Bell of Veridia.** (Completed) An-Yin has already managed to silence the great bell, causing quite a stir around 
 - **The City's Chorus Fades.** Random, localized pockets of silence begin to appear throughout the city. The laughter of a group of children, the bell of a local church, or the bustling sounds of a market street suddenly vanish, only to be replaced by an unnerving and complete quiet. These are at first dismissed as strange occurrences, but they are An-Yin's initial tests of his power.
-- **The City's Harmony Cracks.** An-Yin's music targets a significant public figure or institution. The city's Arch-Librarian, a famous oracle, or the master of the local Bardic college is publicly silenced and begins to turn to dust, as if to make an example. This event shatters any remaining hope that the silence is just a strange phenomenon, sending the city into a panic.
+- 
 - **The Final Crescendo.** An-Yin performs a final, devastating concert from the highest point in the city (e.g., the spire of a cathedral or a wizard's tower). His pipa music creates a growing, malevolent sphere of silence that expands to consume the entire city. Once the sphere closes, the entire city is permanently silenced, and all inside are doomed to a slow decay.
 
 # Players

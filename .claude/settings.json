@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mv \"NPCs/Elara Vance.md\" \"NPCs/Corvina Ashwell.md\")",
+      "Bash(mv \"Images/ElaraVance.png\" \"Images/CorvinaAshwell.png\")"
+    ]
+  }
+}
