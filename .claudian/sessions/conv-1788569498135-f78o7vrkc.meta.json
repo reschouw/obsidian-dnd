@@ -1,0 +1,23 @@
+{
+  "id": "conv-1788569498135-f78o7vrkc",
+  "providerId": "claude",
+  "title": "Review Campaign Against Lazy GM Guidelines",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788569498144,
+  "updatedAt": 1790298182449,
+  "lastResponseAt": 1790298182449,
+  "sessionId": "87ef934d-d347-4235-add3-cfa4793f21f1",
+  "selectedModel": "sonnet",
+  "providerState": {
+    "providerSessionId": "87ef934d-d347-4235-add3-cfa4793f21f1"
+  },
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 2367,
+    "cacheReadInputTokens": 190580,
+    "contextWindow": 1000000,
+    "contextTokens": 192949,
+    "percentage": 19
+  }
+}

@@ -1,81 +1,65 @@
-# Session: [DATE]
-**Campaign:** [[Campaigns/Campaign Name/Summary]]
+**Campaign:** [[Campaigns/Campaign Name/Overview]]
+**Date:** [DATE]
 
----
+# Review the Characters
+*What does each PC want right now? Bonds/flaws worth paying off?*
 
-## PRE-SESSION PREP (Light)
+# Strong Start
+*What's happening?*
 
-### Last Session Recap
-*One paragraph: what did the party accomplish? What's the immediate situation?*
+*What's the point?*
 
-### Strong Start
-*What's happening right now? What's the point? Why should the party care?*
+*Where's the action?*
 
----
+# Outline Potential Scenes
+*These can occur in any order*
+*Short descriptions only!*
+*Rule of thumb: ~45 min per scene, so ~5 scenes fills a 4-hour session*
+Scene 1
+Scene 2
+Scene 3
+Scene 4
+Scene 5
 
-## SCENES (unordered, flexible)
+# Secrets & Clues
+*Not all of these will be revealed*
+*Don't tie these to any specific person, place, thing*
+*Fill in Revealed By / How as they come out in play — no separate post-session list needed*
 
-| Scene | Description | Key NPCs | Clue/Secret |
-|-------|-------------|----------|-------------|
-| 1. | | | |
-| 2. | | | |
-| 3. | | | |
-| 4. | | | |
-| 5. | | | |
-
----
-
-## SECRETS & CLUES (Not tied to anyone)
-*These only become real when revealed. Don't commit to which NPC knows what.*
-
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-
----
-
-## KEY NPCs
-*Name | Connection to party | One-liner archetype*
-
-| NPC | Connection | Archetype |
-|-----|-----------|-----------|
+| Secret | Revealed By | How |
+|--------|-------------|-----|
+| | | |
+| | | |
+| | | |
+| | | |
 | | | |
 | | | |
 | | | |
 
----
+# Develop Fantastic Locations
+*Are any of these related to a player?*
 
-## RANDOM TABLES (when stuck)
+# Choose Relevant Monsters
+*Link to existing NPC/monster docs in this campaign, or to a [5e.tools](https://5e.tools/bestiary.html) stat block*
+*Cr to level conversion is CRx4 for <lvl5, CRX2 for >=lvl5*
+*Boss fights should account for party capabilities without negating them.*
 
-### What Goes Wrong? (Roll 1d6)
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+- 
 
-### What Do They Want? (Roll 1d4)
-1. 
-2. 
-3. 
-4. 
+# Select Magic Item Rewards
+*What items would characters like? Ask them.*
+*Usually one magic item per session, but maybe not powerful*
+*Tie these to the story. Connection to secret/clue?*
+https://5e.tools/lootgen.html
 
 ---
 
-## FRONT STATUS (Check before session)
-*Which grim portents are active? What's the urgency level?*
+## Fronts
+*Check before the session: which portents are active, what's the urgency? Update the same line after the session if anything triggered or advanced.*
 
 - **Front Name:** Portent progress 1/2/3
 
 ---
-
----
-
-## POST-SESSION RECAP
 
 ### What Actually Happened
 *Bullet points. What did the party DO? Who did they meet? What choices did they make?*
@@ -84,34 +68,18 @@
 - 
 - 
 
-### Secrets Revealed
-*Which secrets came out? Who revealed them? Did the party react as expected?*
-
-| Secret | Revealed by | How |
-|--------|-----------|-----|
-| | | |
-
-### Front Advancement
-*Did any grim portents trigger? Which ones? New portents emerging?*
-
-- 
-
 ### Party State After Session
 - **Location:** 
 - **Resources/Status:** 
 - **Morale/Tensions:** 
 - **Outstanding Questions:** 
 
----
-
-## NEXT SESSION HOOKS
+## Next Session Hooks
 *What's dangling? What could the party pursue?*
 
 1. 
 2. 
 3. 
-
----
 
 ## Notes for Next Prep
 *What surprised you? What do you want to remember? New NPCs to detail? Loose threads to weave?*
@@ -121,4 +89,4 @@
 
 ---
 
-**Update [[Campaigns/Campaign Name/State of Play]] after filling this in.**
+**Update your campaign's State of Play note after filling this in** (see [[Templates/Campaign State of Play]]).
