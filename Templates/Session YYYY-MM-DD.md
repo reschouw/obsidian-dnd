@@ -5,11 +5,7 @@
 *What does each PC want right now? Bonds/flaws worth paying off?*
 
 # Strong Start
-*What's happening?*
 
-*What's the point?*
-
-*Where's the action?*
 
 # Outline Potential Scenes
 *These can occur in any order*

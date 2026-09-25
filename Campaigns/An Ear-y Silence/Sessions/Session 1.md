@@ -35,15 +35,15 @@ VERY high above the rest of the city a team of dwarven smiths and gnome artifice
 *Don't tie these to any specific person, place, thing*
 *Fill in Revealed By / How as they come out in play — no separate post-session list needed*
 
-| Secret | Revealed By | How |
-|--------|-------------|-----|
-| Those affected by the silence go mad, horrifyingly quickly. | | |
-| The Governor is plotting to take back control of his city from the bardic college. | | |
-| The populace of Veridia HATE those working or learning at the college, because they are SO ANNOYING | | |
-| Herb has a stash of drugs underneath his shop | | |
-| While Veridia has various flavors of magic woven into every stone and plank, there are no Mythals here. However, there are multiple concentrated in... | | |
-| Prof Ashwell nearly died investigating the bell | Director Seldon | Convinced to reveal info |
-| | | |
+| Secret                                                                                                                                                             | Revealed By                | How                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ------------------------ |
+| Those affected by the silence go mad, horrifyingly quickly.                                                                                                        | Seldon                     | Convinced to reveal info |
+| The Governor is plotting to take back control of his city from the bardic college.                                                                                 |                            |                          |
+| The populace of Veridia HATE those working or learning at the college, because they are SO ANNOYING                                                                | obvious, not a good secret |                          |
+| Herb has a stash of drugs underneath his shop                                                                                                                      |                            |                          |
+| While Veridia has various flavors of magic woven into every stone and plank, there are no Mythals here. However, there are multiple concentrated in nearby regions |                            |                          |
+| Prof Ashwell nearly died investigating the bell                                                                                                                    | Director Seldon            | Convinced to reveal info |
+|                                                                                                                                                                    |                            |                          |
 
 # Develop Fantastic Locations
 *Are any of these related to a player?*
