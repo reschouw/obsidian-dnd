@@ -1,25 +1,26 @@
-**Campaign:** [[Campaigns/Campaign Name/Overview]]
-**Date:** [DATE]
+**Campaign:** [[Campaigns/Campaign Name/0 - Overview]]
+**Date:** {{date:YYYY-MM-DD}}
 
 # Review the Characters
-*What does each PC want right now? Bonds/flaws worth paying off?*
+*Name - what they want right now - abilities worth spotlighting (bonds/flaws worth paying off?)*
 
 # Strong Start
 
 
 # Outline Potential Scenes
 *These can occur in any order*
-*Short descriptions only!*
+*Short descriptions only! Format: Scene N - Location - what happens (Scene 1.5 is fine for sub-beats)*
 *Rule of thumb: ~45 min per scene, so ~5 scenes fills a 4-hour session*
-Scene 1
-Scene 2
-Scene 3
-Scene 4
-Scene 5
+Scene 1 - 
+Scene 2 - 
+Scene 3 - 
+Scene 4 - 
+Scene 5 - 
 
 # Secrets & Clues
 *Not all of these will be revealed*
 *Don't tie these to any specific person, place, thing*
+*Carry over unrevealed secrets from last session*
 *Fill in Revealed By / How as they come out in play — no separate post-session list needed*
 
 | Secret | Revealed By | How |
@@ -33,7 +34,8 @@ Scene 5
 | | | |
 
 # Develop Fantastic Locations
-*Are any of these related to a player?*
+*Location - sensory details. Are any of these related to a player?*
+- 
 
 # Choose Relevant Monsters
 *Link to existing NPC/monster docs in this campaign, or to a [5e.tools](https://5e.tools/bestiary.html) stat block*
@@ -48,6 +50,11 @@ Scene 5
 *Tie these to the story. Connection to secret/clue?*
 https://5e.tools/lootgen.html
 
+| Item | Link | Acquired? |
+|------|------|-----------|
+| | | |
+| | | |
+
 ---
 
 ## Fronts
@@ -58,7 +65,7 @@ https://5e.tools/lootgen.html
 ---
 
 ### What Actually Happened
-*Bullet points. What did the party DO? Who did they meet? What choices did they make?*
+*A recap you can read aloud to the players, in second person ("You all..."). What did the party DO? Who did they meet? What choices did they make?*
 
 - 
 - 

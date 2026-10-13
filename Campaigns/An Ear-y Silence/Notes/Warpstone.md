@@ -1,0 +1,1 @@
+Used as a drug or power source, but very dangerous
