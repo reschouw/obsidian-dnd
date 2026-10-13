@@ -80,9 +80,12 @@ https://5e.tools/lootgen.html
 ### What Actually Happened
 *Bullet points. What did the party DO? Who did they meet? What choices did they make?*
 
-- 
-- 
-- 
+* After kicking the shadowy figure's ass, Toy Soldier, Anara, and Brad were all silenced by some sort of magical field. Hearing your muscles and tendons slide over each other was very disconcerting, but you all left the field without any lingering effects. 
+* As the City Watch arrived, you all made a paltry attempt at hiding in the crowd, then at hiding in a nearby bar. A Watch Commander took you in for questioning, but believed your story (mostly because he knew Director Seldon had hired you). 
+* He offered to escort you through the panicked mob out in front of the city watch headquarters and take you to the bardic college. 
+* You all chose a different path, and instead followed the tall, pointy red hat leaving the crowd. You followed the gnome and eventually came to Herb's Herbs, a botanicals shop with a rather odd gnome named "Herb". 
+* Sensing that something wasn't quite right, you all investigated and eventually got invited down into the basement where Herb keeps herbs reserved for "special" customers. You all went down into the basement, which ended up being a long tunnel completely full of all kinds of drugs. 
+* WELCOME TO HERB'S HERBS!
 
 ### Party State After Session
 - **Location:** 
