@@ -21,7 +21,8 @@ Eliese
 - Wild Shape
 
 # Character Traits
-*(tbd)*
+* Drugs = yes
+* 
 
 # Quick Notes
 

@@ -49,7 +49,9 @@ Scene 5 - Prof Ashwell's room - Prof yelling at party, struggling to hear them. 
 *Cr to level conversion is CRx4 for <lvl5, CRX2 for >=lvl5*
 *Boss fights should account for party capabilities without negating them.*
 
-- mimic
+- 3x [Mimic](https://5e.tools/bestiary.html#mimic_xmm) in Herb's tunnels (CR 2, 450 XP each = 1,350 XP, upper Moderate for four level 3 PCs)
+- [[Commander Marek Staves|Commander Marek Staves]] — [Guard Captain](https://5e.tools/bestiary.html#guard%20captain_xmm) (CR 4)
+- City Watch, if the party fights them — [Warrior Veteran](https://5e.tools/bestiary.html#warrior%20veteran_xmm) (CR 3). They fight to capture: grapple and subdue, no lethal force unless pressed. Deliberately overwhelming; the party faces the consequences of picking this fight.
 
 # Select Magic Item Rewards
 *What items would characters like? Ask them.*
@@ -63,8 +65,32 @@ https://5e.tools/lootgen.html
 | Warpstone crystal (Toy Soldier) | Single use. A highly refined and unstable source of magical power. Must be crushed and inhaled to activate, and the crystal is consumed. The effect is... unpredictable.                                                                                                                                                                                                                                                                                                                                                                                                                                              |           |
 | "Diamond" dust (Brad)           | In it's raw form, warpstone has many uses. This particular blend of warpstone dust and various other substances will give a +3 to charisma checks immediately after being inhaled through the nose. Highly addictive                                                                                                                                                                                                                                                                                                                                                                                                  |           |
 | Sanguine Sage (Scarlett)        | A bundle of dark, resinous sage, burned or inhaled as an aromatic. A single dose. The scent clings to whoever breathes it, and what it does depends on the blood of the one who draws it in. **Thrall (Scarlett):** For 10 minutes, one creature she speaks to must make a Charisma save (DC TBD) or be charmed. They take her words as their own idea and don't realize anything was done to them. **Full vampire:** The same glamour, unleashed. Everyone within 30 feet who breathes the scent makes the save, and a failure leaves them charmed and eager to please for an hour. A vampire doesn't need to speak. |           |
-| Dust of directionality (Anara)  | Grey-green powder, inhaled. Single dose. Con save (DC 14). **Success:** sees direction and distance to the nearest mythal, overrun by chittering ratmen, and hears the word "Vermintide." Also glimpses herself restoring a mythal and gains Heroic Inspiration. **Fail:** hallucinates for 1d4 hours (disadvantage on attacks and ability checks).                                                                                                                                                                                                                                                                   |           |
+| Dust of directionality (Anara)  | Grey-green powder, inhaled. Single dose. Con save (DC 14). **Success:** sees direction and distance to the nearest mythal, overrun by shambling hordes of zombies, skeletons, and other undead beasts, and hears a name whispered: "Nakhesh." Also glimpses herself restoring a mythal and gains Heroic Inspiration. **Fail:** hallucinates for 1d4 hours (disadvantage on attacks and ability checks).                                                                                                                                                                                                                                                                   |           |
 |                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |           |
+
+### Warpstone Crystal Effects (DM only) — Toy Soldier
+*Always: he grows a third arm for 1 hour. It's fully controllable, can hold one extra item, and gives him a second free object interaction each turn (no extra attacks). Then roll a d8 for a side effect.*
+
+| d8 | Side effect (1 hour unless noted) |
+|----|-----------------------------------|
+| 1 | **Glow.** Skin gives off dim green light in 10 ft. Disadvantage on Stealth. |
+| 2 | **Scheme.** A plan unfolds in his head. Once during the hour he can ask for a real hint about the best approach to a problem, and he has advantage on one Intelligence check. |
+| 3 | **Surge.** Gain 2d8 temporary hit points. |
+| 4 | **Ringing.** His armor hums like a struck bell. Immune to magical silence for the hour, but everything he says carries 120 feet. |
+| 5 | **Queasy.** Vomits and loses his next action; poisoned for 10 minutes. |
+| 6 | **Warp-sight.** Sees magic as colored smears (like *detect magic*, no action needed); bright light hurts. |
+| 7 | **Extra eye.** An eye opens in the palm of the third hand. Advantage on sight-based Perception checks. |
+| 8 | **Backlash.** 2d6 force damage, and he's stunned until the end of his next turn. |
+
+*Addiction is flavor only: tell players they crave more and remind them in later sessions. Exhaustion if something really bad happens (e.g. repeat doses).*
+
+### Player Handouts (Herb's "free samples")
+*Scarlett's Vampiric connection should let her instinctively sense that Sanguine Sage is the sort of thing her masters would prize.*
+
+- **Warpstone crystal (Toy Soldier):** A shard of cloudy green stone, warm to the touch, that hums faintly when you hold it. Herb whispers that it has to be crushed and breathed in. "For the bold. No two people get the same ride."
+- **"Diamond" dust (Brad):** A pinch of glittering, pearl-white powder in a twist of paper. Herb calls it "the good stuff." Inhale it and the world gets a little friendlier.
+- **Sanguine Sage (Scarlett):** A tight bundle of dark, resinous sage that smells of iron and old roses. Burn it or breathe it in. Herb mentions it's popular with a certain nocturnal clientele.
+- **Dust of directionality (Anara):** A grey-green powder that smells of wet stone and distant rain, meant to be inhaled. Herb says it's for people who "like to know which way to go."
 
 ---
 

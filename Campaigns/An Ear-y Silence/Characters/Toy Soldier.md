@@ -24,6 +24,8 @@ Eli
 - Looks like a big action figure — "plastic He-Man"
 - A resident of Veridia, not an outsider
 - Pukes at the sight of blood
+- Not very creative. works best off of others plans (like his parents)
+- very easily convinced to take drugs if money goes to help kids or something
 
 # Quick Notes
 Parents are somewhat well-known locally, so people probably recognize him — but his parents know what he's up to and wouldn't recommend him. They're pretty disappointed.

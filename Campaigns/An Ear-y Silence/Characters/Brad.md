@@ -25,6 +25,8 @@ Megan
 - Very flirty, gets what he wants.
 - Resentful of bards, despite (or because of) coming from a family of bards
 - Goes by **Brad**, short for Bradley — he wants everyone to know that, though it lands a little close to "bard"
+- fan of extra fancy rocks, not your ordinary stones
+- loves drugs
 
 # Quick Notes
 Broke up with his ex because they brought him to a city absolutely full of bards.

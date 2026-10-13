@@ -26,6 +26,8 @@ Lily
 # Character Traits
 - Flirts with all the bards, indiscriminately
 - Chaotic and destructive by inclination
+- bite mark on neck that she hides
+- loves drugs
 
 # Quick Notes
 Wants a magic flying broom as an eventual reward/item.
