@@ -71,16 +71,16 @@ https://5e.tools/lootgen.html
 ### Warpstone Crystal Effects (DM only) — Toy Soldier
 *Always: he grows a third arm for 1 hour. It's fully controllable, can hold one extra item, and gives him a second free object interaction each turn (no extra attacks). Then roll a d8 for a side effect.*
 
-| d8 | Side effect (1 hour unless noted) |
-|----|-----------------------------------|
-| 1 | **Glow.** Skin gives off dim green light in 10 ft. Disadvantage on Stealth. |
-| 2 | **Scheme.** A plan unfolds in his head. Once during the hour he can ask for a real hint about the best approach to a problem, and he has advantage on one Intelligence check. |
-| 3 | **Surge.** Gain 2d8 temporary hit points. |
-| 4 | **Ringing.** His armor hums like a struck bell. Immune to magical silence for the hour, but everything he says carries 120 feet. |
-| 5 | **Queasy.** Vomits and loses his next action; poisoned for 10 minutes. |
-| 6 | **Warp-sight.** Sees magic as colored smears (like *detect magic*, no action needed); bright light hurts. |
-| 7 | **Extra eye.** An eye opens in the palm of the third hand. Advantage on sight-based Perception checks. |
-| 8 | **Backlash.** 2d6 force damage, and he's stunned until the end of his next turn. |
+| d8  | Side effect (1 hour unless noted)                                                                                                                                             |
+| --- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | **Glow.** Skin gives off dim green light in 10 ft. Disadvantage on Stealth.                                                                                                   |
+| 2   | **Scheme.** A plan unfolds in his head. Once during the hour he can ask for a real hint about the best approach to a problem, and he has advantage on one Intelligence check. |
+| 3   | **Surge.** Gain 2d8 temporary hit points.                                                                                                                                     |
+| 4   | **Ringing.** His armor hums like a struck bell. Immune to magical silence for the hour, but everything he says carries 120 feet.                                              |
+| 5   | **Queasy.** Vomits and loses his next action; poisoned for 10 minutes.                                                                                                        |
+| 6   | **Warp-sight.** Sees magic as colored smears (like *detect magic*, no action needed); bright light hurts.                                                                     |
+| 7   | **Extra eye.** An eye opens in the palm of the third hand. Advantage on sight-based Perception checks.                                                                        |
+| 8   | **Backlash.** 2d6 force damage, and he's stunned until the end of his next turn.                                                                                              |
 
 *Addiction is flavor only: tell players they crave more and remind them in later sessions. Exhaustion if something really bad happens (e.g. repeat doses).*
 
